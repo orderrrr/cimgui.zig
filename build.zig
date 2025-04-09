@@ -179,7 +179,7 @@ pub fn build(builder: *std.Build) !void {
             .ref = .tag,
         },
         .dcimgui = .{
-            .name = "dearimgui/dear_bindings",
+            .name = "orderrrr/dear_bindings",
             .host = .github,
             .ref = .commit,
         },
